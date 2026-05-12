@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm PESHIMAAM MOHAMMED MUDASSIR<br>🎓 3rd Year CS & Data Science Student<br>🐍 Python | SQL | Git & GitHub<br>🚀 Winter of Code Participant | 240+ LeetCode Problems Solved<br>🧠 Passionate about Data Science, Machine Learning, & Deep Learning
+👋 Hi, I'm PESHIMAAM MOHAMMED MUDASSIR<br>🎓 3rd Year CS & Data Science Student<br>🐍 Python | SQL | Git & GitHub<br>🚀 Winter of Code Participant | + LeetCode Problems Solved<br>🧠 Passionate about Data Science, Machine Learning, & Deep Learning
 
 
 ## 🌐 Socials:
